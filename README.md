@@ -46,17 +46,20 @@
 - 진행 중
 
 
-## 6. 코딩셰프의 3분 딥러닝 - 케라스맛
-![alt text](http://image.yes24.com/Goods/57617933/300x0)
-- Book : [코딩셰프의 3분 딥러닝 - 케라스맛](http://www.yes24.com/Product/goods/57617933)
-- reference github : https://github.com/jskDr/keraspp
-- 진행 중 
-
-
-## 7. 핸즈온 머신러닝
+## 6. 핸즈온 머신러닝
 ![alt text](http://image.yes24.com/Goods/59878826/300x0)
 - Book : [핸즈온 머신러닝](http://www.yes24.com/Product/Goods/59878826?scode=029) 
 - reference github : https://github.com/ExcelsiorCJH/Hands-On-ML
 - 진행 중 
 
 
+-----------------
+
+### Close
+
+## 코딩셰프의 3분 딥러닝 - 케라스맛
+![alt text](http://image.yes24.com/Goods/57617933/300x0)
+- Book : [코딩셰프의 3분 딥러닝 - 케라스맛](http://www.yes24.com/Product/goods/57617933)
+- reference github : https://github.com/jskDr/keraspp
+- RNN 이후로 이 책으로 학습 안 함
+- 이유 : 책에 나와 있는 예제 코드가 실행이 안 되는 경우가 있고, 책의 내용이 딥러닝을 공부하는 데 기초 잡기에는 지나치게 부족
